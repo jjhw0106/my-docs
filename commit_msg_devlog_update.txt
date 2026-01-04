@@ -1,0 +1,4 @@
+docs(frontend): 260104 프론트엔드 개발일지 추가 작성
+
+- 플랫폼별 통계 UI 추가 및 `SubButton` 컴포넌트 구현 내용을 일지에 추가.
+- `pages/my-career/[platform].vue`의 변경 내역을 문서화.
